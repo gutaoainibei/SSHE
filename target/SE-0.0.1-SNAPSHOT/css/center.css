@@ -1,0 +1,9 @@
+.center {
+	font-size: 16px;
+	font-weight: bold;
+	background-attachment: scroll;
+	background-image: url('image/a.jpg');
+}
+.logo{
+	background:url('image/logo.png') no-repeat;
+   }
